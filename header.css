@@ -1,0 +1,39 @@
+.navbar, .navbar__opcoes, .navbar__botoes {
+    display: flex;
+}
+
+.navbar {
+    padding: 1em 5em;
+}
+
+.navbar__titulo {
+    text-align: center;
+    padding: 0.5em 3em 0.5em 0.5em;
+    color: var(--cor-logo);
+}
+
+.navbar__opcoes {
+    padding: 0.5em 5em 0.5em 2em;
+    gap: 2em;
+    margin-right: auto;
+}
+
+.navbar__opcoes-item a, .navbar__botoes-entrar a, .navbar__botoes-cadastrar a {
+    text-decoration: none;
+}
+
+.navbar__botoes {
+    padding: 0.5em 0 0.5em 5em;
+    gap: 0.75em;
+}
+
+.navbar__opcoes-item a, .navbar__botoes-entrar a {
+    color: var(--cor-texto);
+}
+
+.navbar__botoes-cadastrar a {
+    background-color: var(--vermelho-optimustech);
+    color: var(--cor-de-fundo);
+    padding: 0.5em 1.5em;
+    border-radius: 0.5em;
+}

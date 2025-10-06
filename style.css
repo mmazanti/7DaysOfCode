@@ -1,0 +1,14 @@
+@import url('header.css');
+
+:root {
+    --font: 'Inter', sans-serif;
+    --cor-de-fundo: #FFFFFF;
+    --cor-logo: #3A404E;
+    --cor-texto: #667085;
+    --vermelho-optimustech: #8E2424;
+}
+
+body {
+    font-family: var(--font);
+    background-color: var(--cor-de-fundo);
+}
