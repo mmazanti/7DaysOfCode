@@ -1,6 +1,6 @@
-@import url('header.css');
-@import url('seção-principal.css');
-@import url('seção-metricas.css');
+@import url('./styles/navbar.css');
+@import url('./styles/seção-principal.css');
+@import url('./styles/seção-metricas.css');
 
 :root {
     --font: 'Inter', sans-serif;
