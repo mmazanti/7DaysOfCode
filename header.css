@@ -35,5 +35,5 @@
     background-color: var(--vermelho-optimustech);
     color: var(--cor-de-fundo);
     padding: 0.5em 1.5em;
-    border-radius: 0.5em;
+    border-radius: 8px;
 }

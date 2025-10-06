@@ -1,9 +1,11 @@
 @import url('header.css');
+@import url('seção-principal.css');
 
 :root {
     --font: 'Inter', sans-serif;
     --cor-de-fundo: #FFFFFF;
     --cor-logo: #3A404E;
+    --cor-titulo: #101828;
     --cor-texto: #667085;
     --vermelho-optimustech: #8E2424;
 }
