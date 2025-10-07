@@ -1,6 +1,7 @@
 @import url('./styles/navbar.css');
 @import url('./styles/seção-principal.css');
 @import url('./styles/seção-metricas.css');
+@import url('./styles/seção-vagas.css');
 
 :root {
     --font: 'Inter', sans-serif;
@@ -9,6 +10,7 @@
     --cor-titulo: #101828;
     --cor-texto: #667085;
     --vermelho-optimustech: #8E2424;
+    --vermelho-optimustech-claro: rgba(142, 36, 36, 0.05);
 }
 
 body {

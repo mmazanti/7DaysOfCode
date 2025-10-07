@@ -1,0 +1,31 @@
+.seção__vagas {
+    padding: 0 5em;
+    text-align: center;
+}
+
+.seção__vagas-cabecalho {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0.5em 1em;
+    color: var(--vermelho-optimustech);
+    background-color: var(--vermelho-optimustech-claro);
+    border-radius: 16px;
+}
+
+.seção__vagas-titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-titulo);
+    padding: 1em 0;
+}
+
+.seção__vagas-texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-texto);
+    padding-bottom: 4em;
+}
+
+.seção__vagas-imagem {
+    width: 100%;
+}
