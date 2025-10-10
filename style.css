@@ -2,6 +2,7 @@
 @import url('./styles/seção-principal.css');
 @import url('./styles/seção-metricas.css');
 @import url('./styles/seção-vagas.css');
+@import url('./styles/depoimentos.css');
 
 :root {
     --font: 'Inter', sans-serif;
@@ -11,6 +12,8 @@
     --cor-texto: #667085;
     --vermelho-optimustech: #8E2424;
     --vermelho-optimustech-claro: rgba(142, 36, 36, 0.05);
+    --cor-borda: #EAECF0;
+    --fundo-depoimentos: rgba(195, 25, 25, 0.03);
 }
 
 body {
