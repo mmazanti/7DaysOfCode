@@ -1,0 +1,49 @@
+.rodape {
+    width: 100%;
+    background-color: var(--fundo-rodape);
+    text-align: center;
+}
+
+.rodape__cadastro {
+    padding: 60px 20px 0 20px;
+}
+
+.rodape__cadastro-titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-titulo);
+}
+
+.rodape__cadastro-texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-texto);
+    padding-top: 1.25em;
+}
+
+.rodape__cadastro-container {
+    padding: 2.5em 8.5em 0 8.5em;
+}
+
+.rodape__cadastro-input {
+    border: 1px solid var(--cor-borda-input);
+    border-radius: 8px;
+    width: 360px;
+    height: 48px;
+    padding-left: 1em;
+}
+
+.rodape__cadastro-botão {
+    background-color: var(--vermelho-optimustech);
+    color: var(--cor-de-fundo);
+    padding: 0.5em 1.5em;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.rodape__copyright {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cor-copyright);
+    padding: 2em 0 6em 0;
+}

@@ -3,6 +3,7 @@
 @import url('./styles/seção-metricas.css');
 @import url('./styles/seção-vagas.css');
 @import url('./styles/depoimentos.css');
+@import url('./styles/rodape.css');
 
 :root {
     --font: 'Inter', sans-serif;
@@ -10,10 +11,13 @@
     --cor-logo: #3A404E;
     --cor-titulo: #101828;
     --cor-texto: #667085;
+    --cor-copyright: #98A2B3;
     --vermelho-optimustech: #8E2424;
     --vermelho-optimustech-claro: rgba(142, 36, 36, 0.05);
     --cor-borda: #EAECF0;
     --fundo-depoimentos: rgba(195, 25, 25, 0.03);
+    --fundo-rodape: #F9FAFB;
+    --cor-borda-input: #D0D5DD;
 }
 
 body {
